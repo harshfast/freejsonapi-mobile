@@ -1,0 +1,31 @@
+/**
+ * All the versions should be defined in versions.gradle
+ */
+ext {
+    versions =
+            [
+                    build: [
+                            min_sdk    : 23,
+                            target_sdk : 27,
+                            compile_sdk: 27,
+                            build_tools: "27.0.3"
+                    ],
+
+                    deps : [
+                            gradle_plugin       : "3.1.4",
+                            kotlin_plugin       : "1.2.60",
+                            support             : "27.0.0",
+                            constraint          : "1.0.2",
+                            junit               : "4.12",
+                            test_runner         : "1.0.1",
+                            espresso_core       : "3.0.2",
+                            room                : "1.1.1",
+                            lifecycle_extensions: "1.1.1",
+                            recyclerview        : "27.0.0",
+                            coroutines          : "0.25.3",
+                            okhttp              : "3.11.0",
+                            gson                : "2.8.5",
+                    ]
+
+            ]
+}

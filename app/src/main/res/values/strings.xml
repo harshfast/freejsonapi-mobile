@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreeApi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="select_api_category">Select Api Category</string>
+    <string name="total_count">Total Count: </string>
+</resources>
