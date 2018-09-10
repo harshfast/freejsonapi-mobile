@@ -1,7 +1,7 @@
 # freejsonapi-mobile
 This mobile application shows free json api feed according to category. 
 
-Feed used from below project
+Feed used from project
 https://github.com/davemachado/public-api
 
 Features:
