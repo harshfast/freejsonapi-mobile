@@ -16,3 +16,4 @@ User Experience:
 - On clicking of any Api list item it will show the details regarding the api in next screen. 
 - On clicking back from details screen, it will load the previously selected api list again.
 - Once data is cached it is available for offline usage.
+- Improvements with MVVM model
